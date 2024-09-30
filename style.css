@@ -1,0 +1,31 @@
+body {
+    background-color: #ffe6e6; /* Toz pembe tonları */
+    font-family: Arial, sans-serif;
+    color: #a60000; /* Açık kırmızı */
+}
+
+header {
+    background-color: #ffcccc;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #a60000;
+    font-weight: bold;
+}
+
+main {
+    text-align: center;
+    margin-top: 50px;
+}
